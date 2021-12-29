@@ -78,7 +78,7 @@ Built in datatypes
 -float----> Fractional of floating point values 1.1, 0.323432
 -String-----> character values "Siddhesh"
 -boolean ---> True / False
--Complex
+-Complex -----> 9+34j
 
 Data structures and opearations on them
 -----> Sequential
