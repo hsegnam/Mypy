@@ -1,0 +1,135 @@
+Python: 
+add.c
+add.java
+#include<stdio.h>
+void main()
+{
+	int a,b,c;
+	scanf("%d%d", &a,&b);
+	print("Addition = %d", (a+b));
+}
+
+12+13
+a='12'---> integer
+b=13
+a+b
+
+
+Language, data processing, functional progg, procedure oriented progg., OO Progg
+DBMS----> Dat
+DBMS, flat files, binary files, website, csv, 
+
+Developer : Guido Van Rossum
+
+as a thesis in 1985-1991
+add.py
+python 1.x 1994				C-lang Filename.c, filename.java-----> filename.py
+python 2.x 2000
+python 3.x 2008 -----> 3.6,3.7
+upcoming 4x---- No updates yet
+
+Where???--- 			JVM----> Just In Time compiler 
+Python developement---> Problem solving domain---> Client req. solve python progg
+web developement ----> Python----> Django Framework ---> Security---> SQL injection/cross site scripting 
+data science ----> Data Analyst, Data Engineer, 6+ years----> ML 4-5 years---> AI 
+IOT----> Internet of Things---> Smart devices---> alexa 
+ML----> pandas, numpy, matplotlib -----> 50 pics dogs----> dog 90%+ 
+AI
+
+
+Dev tools-----> pycharm, VScode, Spyder, Atom, Sublime ----> Scripting tools FileName.py
+
+ANACONDA
+
+DA/ML/AI/NLP/CV -----> Jupyter Notebook---> .ipynb
+
+
+
+Getting familier with python environment
+interpretation and script writing
+
+Contents
+Core/Basic Python
+Introduction to languages--- M/C, Middle, High, Translators
+
+Intro to Python
+#S/w requirements and installation
+
+advantages
+- Simple and easy to learn
+-high level lang
+-freeware and open source
+-platform independant
+-Dynamically typed
+-interpreted
+-rich in libraries
+-embedded support for other languages
+
+disadvantages
+1) Mobile Developement
+2)Backword Compatibility
+
+python 2.x---> python 3.x not executable
+
+Varibles and datatypes
+Built in datatypes
+-None
+-int---> Integer values complete number  1,2,3,-1,-2,999
+-float----> Fractional of floating point values 1.1, 0.323432
+-String-----> character values "Siddhesh"
+-boolean ---> True / False
+-Complex
+
+Data structures and opearations on them
+-----> Sequential
+List --->  How to find out index of 2nd occarance  element in list
+eg1 = [1,1,1,1,1,[11,1,1,1,1,],1,1,1,1,1,11,1,11,1,1,1]
+store deleted elements
+heterogeneous list and operations
+
+Tuple
+Set 
+Dictionary
+
+IO operators
+
+Control structures----> if, else if, for while do while
+
+Functions
+
+Advance Python.
+
+OOPs Concepts
+Classes and Objects
+Encapsulation
+Inheritance
+Plymorphism
+
+Python Modules
+
+Packages
+
+Ecxeption Handling
+
+Files And Directories
+
+Multithreading
+
+OS Modules
+
+Garbage Collection
+
+File Handling
+
+Database in Python
+
+
+
+
+
+
+
+Basic python, advanced
+RDBMS
+Linux commands
+
