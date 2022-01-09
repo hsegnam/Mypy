@@ -92,8 +92,17 @@ heterogeneous list and operations
 Tuple ---> tuple() 
 Set ----> 
 Dictionary
+String Functions
 
 IO operators
+Types of Operators
+
+User input
+Formatting String in python
+Using---- "".format()
+	f'String'
+
+Python in indented language
 
 Control structures----> if, else if, for while do while
 
