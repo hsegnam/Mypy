@@ -104,7 +104,7 @@ Using---- "".format()
 
 Python in indented language
 
-Control structures----> if, else if, for while do while
+Control structures----> if, else if, for while (do while---> Not supported)
 Examples
 Functions
 
