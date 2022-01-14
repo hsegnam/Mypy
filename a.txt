@@ -102,10 +102,17 @@ Formatting String in python
 Using---- "".format()
 	f'String'
 
-Python in indented language
+Python is an indented language
 
 Control structures----> if, else if, for while (do while---> Not supported)
 Examples
+-translate and maketranslation
+-string %
+-sum function
+-for else
+-for on list
+-pass keyword
+
 Functions
 
 Advance Python.
