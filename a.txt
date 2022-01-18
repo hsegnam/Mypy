@@ -114,6 +114,22 @@ Examples
 -pass keyword
 
 Functions
+- Function Basics
+- Function Arguments
+	- Positional Arguments
+	- Default Arguments
+	- Keyword Argemunts
+	- Variable Length Arguments
+	- Variable Length Keyword arguments
+- Lambda function
+- map() and filter() function
+-  concatenete 2 numbers
+- * operator
+- find the list of length of each string in the given list
+- Python progam to reverse the given number
+- pp to find the sum of digits in number
+- PP to take the list and print the second largest number in he list
+- PP to merge two lists and to sort it
 
 Advance Python.
 
