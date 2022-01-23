@@ -132,11 +132,21 @@ Functions
 - PP to merge two lists and to sort it
 
 Advance Python.
+Procedure oriented progrannimg---> Basic building block ---> function(), Problem solving by procedure approach, top down approach	
 
-OOPs Concepts
+OOPs Concepts:
+OOP: if a programming language supports all the object oriented features in order to solve the problems then it is called as object oriented progg lang
+	- Everything is considered as an object where every object is having data and its own methods
+	- Data and methods are collected using single unit by using class and object
+	- It follows top down appraoch
+	- it is used to solve the real life problem in easy manner
 Classes and Objects
+	Class : Class is a blueprint of an object---> if defines the structure of an object ---> class is a collection of data members and member function
+	Object : it is an instance of a class
 Encapsulation
+
 Inheritance
+
 Plymorphism
 
 Python Modules
