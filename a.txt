@@ -59,28 +59,28 @@ Intro to Python
 
 advantages
 - Simple and easy to learn
--high level lang
--freeware and open source
--platform independant
--Dynamically typed
--interpreted
--rich in libraries
--embedded support for other languages
+- High level lang
+- Freeware and open source
+- Platform independant
+- Dynamically typed
+- Interpreted
+- Rich in libraries
+- Embedded support for other languages
 
 disadvantages
-1) Mobile Developement
-2)Backword Compatibility
+1)  Mobile Developement
+2) Backword Compatibility
 
 python 2.x---> python 3.x not executable
 
 Varibles and datatypes
 Built in datatypes
 -None
--int---> Integer values complete number  1,2,3,-1,-2,999
--float----> Fractional of floating point values 1.1, 0.323432
--String-----> character values "Siddhesh"
--boolean ---> True / False
--Complex -----> 9+34j
+- int---> Integer values complete number  1,2,3,-1,-2,999
+- float----> Fractional of floating point values 1.1, 0.323432
+- String-----> character values "Siddhesh"
+- boolean ---> True / False
+- Complex -----> 9+34j
 
 Data structures and opearations on them
 -----> Sequential
@@ -143,11 +143,22 @@ OOP: if a programming language supports all the object oriented features in orde
 Classes and Objects
 	Class : Class is a blueprint of an object---> if defines the structure of an object ---> class is a collection of data members and member function
 	Object : it is an instance of a class
-Encapsulation
+	Constructors
 
+Encapsulation: Mechanism to restrict the variable access
+	public, private, protected
+	class variables
+	instance variables
 Inheritance
+    Single
+    Multilevel
+    Multiple
+    Hierachycal
+    Hybrid
 
 Plymorphism
+    Method overloadiing and method overriding
+    Operator overloading
 
 Python Modules
 
