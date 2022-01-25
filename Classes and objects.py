@@ -4,7 +4,7 @@ Classes and objects
     and when we create the variables of this class is it called as an object
 syntax of class:
 
-class className():
+class className:
     # Data members
     .
     .
