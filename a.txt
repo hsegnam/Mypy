@@ -149,6 +149,9 @@ Encapsulation: Mechanism to restrict the variable access
 	public, private, protected
 	class variables
 	instance variables
+	Class method
+	Static method
+	Instance Method
 Inheritance
     Single
     Multilevel
