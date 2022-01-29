@@ -151,7 +151,7 @@ objF.m1()
 '''
 
 
-class A(object):
+class A:
     def __init__(self):
         self.name = 'Bunty'
     def m1(self):

@@ -159,9 +159,12 @@ Inheritance
     Hierachycal
     Hybrid
 
-Plymorphism
-    Method overloadiing and method overriding
+Polymorphism
+    Function returning multiple values
+    Method overloading and method overriding
     Operator overloading
+    MRO
+
 
 Python Modules
 
