@@ -8,7 +8,7 @@ void main()
 {
 	int a,b,c;
 	scanf("%d%d", &a,&b);
-	print("Addition = %d", (a+b));
+	printf("Addition = %d", (a+b));
 }
 
 12+13
@@ -56,6 +56,11 @@ Introduction to languages--- M/C, Middle, High, Translators
 
 Intro to Python
 #S/w requirements and installation
+- Python
+- PyCharm
+- Jupyter Notebook - Anaconda , pip
+- VS code
+
 
 advantages
 - Simple and easy to learn
@@ -82,6 +87,9 @@ Built in datatypes
 - boolean ---> True / False
 - Complex -----> 9+34j
 
+a= a%b
+a = 40%-35
+
 Data structures and opearations on them
 -----> Sequential
 List --->  How to find out index of 2nd occarance  element in list
@@ -94,9 +102,9 @@ Set ---->
 Dictionary
 String Functions
 
-IO operators
 Types of Operators
 
+IO operations
 User input
 Formatting String in python
 Using---- "".format()
@@ -104,7 +112,7 @@ Using---- "".format()
 
 Python is an indented language
 
-Control structures----> if, else if, for while (do while---> Not supported)
+Control structures----> if, else if, for, while (do while---> Not supported)
 Examples
 -translate and maketranslation
 -string %
@@ -123,7 +131,7 @@ Functions
 	- Variable Length Keyword arguments
 - Lambda function
 - map() and filter() function
--  concatenete 2 numbers
+-  concatenate 2 numbers
 - * operator
 - find the list of length of each string in the given list
 - Python progam to reverse the given number
@@ -131,12 +139,18 @@ Functions
 - PP to take the list and print the second largest number in the list
 - PP to merge two lists and to sort it
 
+- Generators
+- Iterators
+- Decorators
+- Recursion
+
+
 Advance Python.
 Procedure oriented progrannimg---> Basic building block ---> function(), Problem solving by procedure approach, top down approach	
 
 OOPs Concepts:
 OOP: if a programming language supports all the object oriented features in order to solve the problems then it is called as object oriented progg lang
-	- Everything is considered as an object where every object is having data and its own methods
+	- Everything is considered as an object where every object is having its own data and methods
 	- Data and methods are collected using single unit by using class and object
 	- It follows top down appraoch
 	- it is used to solve the real life problem in easy manner
